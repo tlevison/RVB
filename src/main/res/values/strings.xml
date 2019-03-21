@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Retro Vibes Barbershop</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="home_greeting">Don\'t wait for your Barber, Clock it!</string>
+    <string name="home_optionsText">Book by choosing your Barber or Date available</string>
+    <string name="barber_selectText">Select your Barber</string>
+    <string name="title_activity_barber">Barber Selection</string>
+    <string name="action_settings">Settings</string>
+    <string name="myDataset">myDataset</string>
+    <string name="select_barber">Select your Barber</string>
+    <string name="michael_scott">Michael Scott</string>
+    <string name="michael_title">-Grand Master Barber</string>
+    <string name="dwight_howard">Dwight Howard</string>
+    <string name="dwight_title">-Lead Barber</string>
+    <string name="jesus_christ_iv">Jesus Christ IV</string>
+    <string name="jesus_title">-Master Barber</string>
+    <string name="curtis_jack">Curtis Jack</string>
+    <string name="curtis_title">-Associate Barber</string>
+</resources>
